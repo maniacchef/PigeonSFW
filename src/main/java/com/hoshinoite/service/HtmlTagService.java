@@ -64,7 +64,7 @@ public class HtmlTagService {
     		//デバッグ用
     		//System.out.println(tagName);
     		//System.out.println(tag.getCategories());
-    		System.out.println(tag.getAttrs());
+    		//System.out.println(tag.getAttrs());
     	}    	
     	
     	return workTags;
