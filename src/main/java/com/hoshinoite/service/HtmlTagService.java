@@ -61,7 +61,7 @@ public class HtmlTagService {
 	    		//HtmlTag.addAttr()呼び出しにより、HtmlAttrを紐づけ
         		tag.addAttr(attr);
     		}
-    		//デバッグ用
+    		//デバッグ用 テスト。新eclipseから。
     		//System.out.println(tagName);
     		//System.out.println(tag.getCategories());
     		//System.out.println(tag.getAttrs());
